@@ -15,14 +15,14 @@ For all Ninjas there is as always only one rule; Above all be Cool, bullying, ly
 This document details a set of guiding principles that the CoderDojo Foundation recommends all individual Dojos meet. The principles set out in this document may be amended at any stage through a consultation process with the Community or Advisory Committee."
 
 ## 運営指針（RP）とは
-全ての道場のRPには道場を決めための、５つの原則があります。
-元来グローバルな資質を持つコーダー道場の指針は、住む国に関係なくフレンドリーに適用できるようになっています。
+全ての道場のRPには道場を決めるための、５つの原則があります。
+グローバルな視野を持って作られたコーダー道場の指針は、住む国に関係なくフレンドリーに適用できるようになっています。
 
 1. 安全なスペースを確保する
 2. 子どもを保護する
 3. CoderDojo精神を包括する
-4. コミュニケーションとレビュー
-5. プライバシーとデータの保護
+4. コミュニケーションとレビューをおこなう
+5. プライバシーとデータの保護を約束する
 
 忍者たちは「クールであれ」というただ１つの“さだめ”を肝に銘じていればいいのです。
 しかしながら大人は忍者たちが楽しめる為の安全な場所を確保するためにはさらなるステップを実行する必要があります。
