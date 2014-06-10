@@ -6,27 +6,27 @@ The CoderDojo Foundation will be putting the Recommended Practice to the entire 
 
 ## コーダー道場の運営指針（RP）
 コーダー道場のすべての忍者には１つの“さだめ”があります。
-常にクールであれといことです。うそをついたり、他人の時間を浪費することはクールとは言えません。
+常に「クールであれ」といことです。うそをついたり、他人の時間を浪費することはクールとは言えません。
 このドキュメントは、コーダー道場財団がそれぞれの道場に推奨する一連の運営指針の詳細です。
 この運営指針は、コミュニティもしくは諮問委員会などの協議プロセスの中のどの段階でも修正される可能性があります。
 
 >"CoderDojo Recommended Practice (RP)
-For all Ninjas there is as always only one rule; Above all be Cool, bullying, lying, wasting peoples time and so on is uncool!  
+For all Ninjas there is as always only one rule; Above all be Cool, bullying, lying, wasting peoples time and so on is uncool!
 This document details a set of guiding principles that the CoderDojo Foundation recommends all individual Dojos meet. The principles set out in this document may be amended at any stage through a consultation process with the Community or Advisory Committee."
 
 ## 運営指針（RP）とは
 全ての道場のRPには道場を決めための、５つの原則があります。
 元来グローバルな資質を持つコーダー道場の指針は、住む国に関係なくフレンドリーに適用できるようになっています。
 
-1. 安全なスペースを作成する  
-2. 子どもの保護  
-3. CoderDojo精神を包括する  
-4. コミュニケーションとレビュー  
-5. プライバシーとデータの保護  
+1. 安全なスペースを確保する
+2. 子どもを保護する
+3. CoderDojo精神を包括する
+4. コミュニケーションとレビュー
+5. プライバシーとデータの保護
 
-しかしながら大人たちは忍者が楽しめる為の安全な場所を保証するためにさらなるステップを実行する必要がある。
-RPは道場の満たす基準を導けるように開発されています。
-Be CoolというCoderDojoのルールを守ることは重要です。
+忍者たちは「クールであれ」というただ１つの“さだめ”を肝に銘じていればいいのです。
+しかしながら大人は忍者たちが楽しめる為の安全な場所を確保するためにはさらなるステップを実行する必要があります。
+RPはそのような道場の満たす基準を導ける内容になっています。
 
 >"What is the Recommended Practice?
 The recommended practice for all Dojos is a set of 5 guiding principles that Dojos can choose to meet. Due to the global nature of CoderDojo these principles have been designed to be user friendly and applicable to Dojos regardless of their geographical location.
@@ -49,12 +49,12 @@ The CoderDojo Charter was brought in in December 2013. Since then all Dojos who 
 
 ## RPは何を達成しようとしているのか？
 
-1. 品質管理：地域関係なく全域の道場への品質管理のレベルを導入  
-2. 子供たちの保護：すべての道場は、子供のための安全なスペースである必要があり、RPは道場が児童保護基準やガイドラインを満たすことを保証します。  
-3. ブランド保護：個々の道場は、過失または認識の甘さによって、より広い地域社会のためにそれを損傷しないようにすることでCoderDojoのブランドを保護します。  
-4. 代表：国際的な会社と交渉するときに合法的に財団を国際的な権限を付与し道場グループの公式な代表を務めることを可能にする  
-5. プロセス·ガイダンス：道場はっきりしたプロセスに従い立ちあげれる.提携を選んだ道場は財団から積極的な指導と支援を受けることが出来るだろう。  
-6. コミュニティ & 関与の感覚：財団のメンバーになって、組織の運営に発言権を持つように、これらの会議のRPを有効を通じて財団＆道場間のコミュニティの一体感を作成することができます。  
+1. 品質管理：地域関係なく全域の道場への品質管理のレベルを導入
+2. 子供たちの保護：すべての道場は、子供のための安全なスペースである必要があり、RPは道場が児童保護基準やガイドラインを満たすことを保証します。
+3. ブランド保護：個々の道場は、過失または認識の甘さによって、より広い地域社会のためにそれを損傷しないようにすることでCoderDojoのブランドを保護します。
+4. 代表：国際的な会社と交渉するときに合法的に財団を国際的な権限を付与し道場グループの公式な代表を務めることを可能にする
+5. プロセス·ガイダンス：道場はっきりしたプロセスに従い立ちあげれる.提携を選んだ道場は財団から積極的な指導と支援を受けることが出来るだろう。
+6. コミュニティ & 関与の感覚：財団のメンバーになって、組織の運営に発言権を持つように、これらの会議のRPを有効を通じて財団＆道場間のコミュニティの一体感を作成することができます。
 
 >"What is the Recommended Practice trying to achieve?
 Quality Control: To introduce a level of quality control across Dojos regardless of geographical region.
@@ -66,7 +66,7 @@ Sense of Community & involvement: To create a greater sense of community between
 
 
 ## 原則
-原則１：子供たちの保護：私たちは全ての参加者を保護する必要な手段を取ることを保証した  
+原則１：子供たちの保護：私たちは全ての参加者を保護する必要な手段を取ることを保証した
 
 * 私たちは私たちの国で子どもの保護基準を満たしていることを確認するために必要なすべての措置をとっている。
 * 我々は、すべて私たちのボランティアを認識し、その必要な手順の研修を受けている場所での子どもの保護ポリシーを持っている。
