@@ -4,7 +4,7 @@
 The CoderDojo Foundation will be putting the Recommended Practice to the entire global CoderDojo Community for an Open Consultation Period. This period will run from the 11th of June 2014 to the 14th of July 2014, during this time any Dojo can submit feedback, or arrange a call with the team to discuss their thoughts. The Foundation is committed to the CoderDojo community and value their input greatly which is why we have decided to take this necessary step.
 
 
-## コーダー道場の推奨案（RP）
+## コーダー道場の運営指針（RP）
 コーダー道場のすべての忍者には１つの“さだめ”があります。
 常にクールであれといことです。うそをついたり、他人の時間を浪費することはクールとは言えません。
 このドキュメントは、コーダー道場財団がそれぞれの道場に推奨する一連の運営指針の詳細です。
@@ -14,9 +14,9 @@ The CoderDojo Foundation will be putting the Recommended Practice to the entire 
 For all Ninjas there is as always only one rule; Above all be Cool, bullying, lying, wasting peoples time and so on is uncool!  
 This document details a set of guiding principles that the CoderDojo Foundation recommends all individual Dojos meet. The principles set out in this document may be amended at any stage through a consultation process with the Community or Advisory Committee."
 
-## 推奨案とは
-全ての道場のRPは５つの原則があり、道場は満たせれるかを選択できる。
-CoderDojo のグローバルな性質のためそれらの原則は取り扱いが簡単で道場の地理的位置を気にせず適用できるように設計されています。
+## 運営指針（RP）とは
+全ての道場のRPには道場を決めための、５つの原則があります。
+元来グローバルな資質を持つコーダー道場の指針は、住む国に関係なくフレンドリーに適用できるようになっています。
 
 1. 安全なスペースを作成する  
 2. 子どもの保護  
