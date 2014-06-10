@@ -38,10 +38,10 @@ The recommended practice for all Dojos is a set of 5 guiding principles that Doj
 It is important to note that for ninjas there is only The one rule of CoderDojo; Be Cool. However us adults need to take further steps to ensure that we create safe spaces for ninjas to enjoy themselves. The Recommended Practice has been developed to act as a guide for Dojos in regards to standards to meet."
 
 
-## 道場の設立許可にどう影響されるか？
-CoderDojo設立は、2013年12月に持って来られた.
-以来、ウェブサイトに掲載したがっているすべての道場は、設立に包含される基本的な精神に同意しなければなりません。これは変更されません。
-RPはさらに道場を業界の成功事例の標準を満たすためにしたいのです。
+## これは道場の設立憲章にどう影響をおよびしますか？
+CoderDojo設立憲章は、2013年12月に導入されました。
+それ以来、ウェブサイトに掲載を希望するすべての道場は、設立に包含される基本的な精神に同意する必要があります、これは変わりません。
+RPはさらに道場を業界の成功事例の基準を満たすためにあります。
 
 >"How does this affect the CoderDojo Charter?
 The CoderDojo Charter was brought in in December 2013. Since then all Dojos who want to listed on the website must agree to the basic ethos encompassed in the Charter, this does not change. Recommended Practice is a set further, and is for Dojos who want to meet industry best practice standards."
@@ -49,9 +49,9 @@ The CoderDojo Charter was brought in in December 2013. Since then all Dojos who 
 
 ## RPは何を達成しようとしているのか？
 
-1. 品質管理：地域関係なく全域の道場への品質管理のレベルを導入
-2. 子供たちの保護：すべての道場は、子供のための安全なスペースである必要があり、RPは道場が児童保護基準やガイドラインを満たすことを保証します。
-3. ブランド保護：個々の道場は、過失または認識の甘さによって、より広い地域社会のためにそれを損傷しないようにすることでCoderDojoのブランドを保護します。
+1. 品質管理：国・地域に関係なく道場へ同じ品質管理のレベルを導入する
+2. 子供たちの保護：すべての道場は、子供のために安全なスペースである必要があり、RPは道場が児童保護基準やガイドラインを満たすことを保証します。
+3. ブランド保護：個々の道場が、広範な地域社会においても過失または認識の甘さなどで、CodaDojoブランドを傷つけないように保護する
 4. 代表：国際的な会社と交渉するときに合法的に財団を国際的な権限を付与し道場グループの公式な代表を務めることを可能にする
 5. プロセス·ガイダンス：道場はっきりしたプロセスに従い立ちあげれる.提携を選んだ道場は財団から積極的な指導と支援を受けることが出来るだろう。
 6. コミュニティ & 関与の感覚：財団のメンバーになって、組織の運営に発言権を持つように、これらの会議のRPを有効を通じて財団＆道場間のコミュニティの一体感を作成することができます。
@@ -66,11 +66,11 @@ Sense of Community & involvement: To create a greater sense of community between
 
 
 ## 原則
-原則１：子供たちの保護：私たちは全ての参加者を保護する必要な手段を取ることを保証した
+原則１：子供たちの保護：私たちは全ての参加者を保護する必要な手段を講じた。
 
-* 私たちは私たちの国で子どもの保護基準を満たしていることを確認するために必要なすべての措置をとっている。
-* 我々は、すべて私たちのボランティアを認識し、その必要な手順の研修を受けている場所での子どもの保護ポリシーを持っている。
-* 身元調査は私たちの管轄で必要とされるならば、我々は、これらの従来たちの道場を開始するが完了しました。
+* 私たちは自分たちの国で子どもの保護基準を満たしていることを確認するために必要なすべての措置を講じている。
+* 我々は、各所に児童保護方針を有します。その場所は、すべてのボランティアで確認し、必要な手順の研修を受けています。
+* 身元調査が地域で必要とされるならば、我々は、Dojoを始める前にこれを完了します。
 
 >"The Principles
 Principle 1: Safeguarding Children: We have taken necessary steps to ensure all attendees are  safeguarded.
@@ -78,11 +78,11 @@ We have taken all necessary steps to ensure we meet child protection standards i
 We have a child protection policy in place which all our volunteers are aware of and trained in its necessary procedures.
 If background checks are required in our jurisdiction then we have completed these prior to starting our Dojo.
 
-原則２：安全な場所を作る：私たちは道場に関係しているみんなに安全な場所を作っている
+原則２：安全な場所を作る：私たちは道場に関係している全員に安全な場所を作ります
 
-* 全てのボランティアに役割の概要を提供されていて、彼らは何を期待されているかを知っている
-* 全ての両親は道場が保証するこについて十分な情報が提供されていて、期待されていることを知っている
-* 我々が使用するスペースは、関連する国内の健康と安全のガイドラインを満たしています。
+* 全てのボランティアは要求に基づいてそ役割と責任が提供されています。
+* 全ての両親はDojoについて知りたいと思う十分な情報が提供されることを私たちのDojoは保証します。
+* 我々が使用するスペースは、一般的な国内の健康と安全の基準を満たしています。
 
 >"Principle 2: Creating a Safe Space: We have created a safe space for everyone involved in our Dojo.
 All volunteers have been provided with a role description so they are aware of what is expected of them.
