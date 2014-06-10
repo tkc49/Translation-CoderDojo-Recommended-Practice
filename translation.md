@@ -100,37 +100,58 @@ We respect diversity among our attendees and don’t discriminate against race, 
 We do not charge attendees to participate in our Dojo
 in the operations, running and direction of our Dojo."
 
-原則４：
+原則４：コミュニケーション＆レビュー：私たちは、財団とのコミュニケーションの重要性を理解しています。
+
+* 私たちは、パートナーシップと、測定への影響のために必要となる場合があります財団に情報を提供します。
+* 我々は、これが問題と持っていた成功を財団の案内を支援することを認識しています。
+* 我々 我々 のメンバーのボード上の意見を取るフィードバックを歓迎します。
+* 我々は真剣に私たちの道場について、苦情を含め、フィードバックを取り、必要な変更を行うことにコミットする。
+* 私たちは、カタナレッジベースやGitHubのページに追加することにより更にCoderDojo運動に貢献するメンバーを励ます
+* 私たちは、コミュニティグループ、フォーラム、コミュニティコールを介してより大きなCoderDojoのコミュニティに関与するメンバーをお勧めします。
 
 
-Principle 4: Communication & Review: We understand the importance of communication with the Foundation.
-
-
+>"Principle 4: Communication & Review: We understand the importance of communication with the Foundation.
 We will provide information to the Foundation which may be required for partnerships and measuring impact.
 We recognize that this will assist with guiding the Foundation on issues and successes had.
 We take our members opinions on board and welcome feedback.
 We commit to taking feedback, including complaints, about our Dojo seriously and to make necessary changes.
 We encourage members to contribute to the greater CoderDojo movement through adding to the Kata Knowledge Base and the GitHub page
 We encourage members to engage with the greater CoderDojo community through the community groups, forums and Community calls.
-Principle 5: Privacy and Data Protection: We commit to take seriously the privacy of our members and to safeguard their data.
 
+原則5：プライバシーとデータ保護：私たちは真剣に私たちのメンバーのプライバシーを取るために、それらのデータを保護することを約束。
+* 我々は認識していると私たちの道場が保有するすべての個人情報に関連する関連する地域の法令を遵守することの重要性を理解しています。
+* 我々は我々のメンバーのプライバシーが保護されることを確保するために必要な措置を講じて
+* 私たちは、彼らが収集した目的のための情報や連絡先の詳細を使用します。
+
+>"Principle 5: Privacy and Data Protection: We commit to take seriously the privacy of our members and to safeguard their data.
 We are aware of and understand the importance of complying with relevant regional legislation relating to all personal information held by our Dojo.
 We have taken necessary steps to ensure that our members privacy is safeguarded
-We will only use information and contact details for the purpose they were collected.
-Benefits for Dojos in meeting RP
+We will only use information and contact details for the purpose they were collected."
 
-A Dojo who chooses to meet the RP is making a public declaration that they are committed to best practices and child protection. The Foundation is currently in the process of altering its structure to allow Dojos meeting RP the ability to join as a member, automatically giving them certain rights in the running of the Foundation. There is no cost to become a member of the foundation.
+## RPを満たす上で道場のメリット
+RPを満たすことを選択した道場は、それらがベストプラクティスと子どもの保護にコミットしている公共の宣言を行っています。財団は、自動的にそれらを財団の運営に一定の権利を与えて、道場会議RPのメンバーとして参加する能力を可能にするために、その構造を変更する過程にある。財団のメンバーになるためには費用はかかりません。
 
-There are a number of additional benefits for Dojos such as:
+>"Benefits for Dojos in meeting RP
+A Dojo who chooses to meet the RP is making a public declaration that they are committed to best practices and child protection. The Foundation is currently in the process of altering its structure to allow Dojos meeting RP the ability to join as a member, automatically giving them certain rights in the running of the Foundation. There is no cost to become a member of the foundation."
 
+次のもののようなドジョウのための多くの追加の利点があります:
+* 推奨と提携して最高の品質基準を満たしている道場として認識します。
+* 道場、財団の運営および積極的にこれを通じてグローバル CoderDojo 運動の将来の方向性を形成する能力の声があります。
+* 財団によって締結されたパートナーシップの権利；Google & Raspberry Pi は全てのUK道場と締結したり、Coderstarter pilotは十分なサービスを受けていない参加者に援助する為にノートPCを提供することを締結された
+* Access to（権利） sponsorship and partnership opportunities（良い機会） such negotiated（締結された） by the Foundation such as（例えば） Coolest Projects Travel for European Dojos
+* Option to attend regular Foundation organised events such as Coolest Projects and DojoCon as well as option of attending once off high profile events that may be organised in your area eg. Recent Dojo at Westminster Abbey, upcoming Dojo at Buckingham Palace.
+
+
+>"There are a number of additional benefits for Dojos such as:
 Recognition as a Dojo that meets the highest quality standards through aligning with Recommended Practice.
 Dojos will have a voice in the operations of the Foundation and the ability to actively shape the direction and future of the global CoderDojo movement through this.
-Access to partnerships negotiated by the Foundation; such as Google & Raspberry Pi partnership negotiated for all UK Dojos and Coderstarter pilot partnership offering laptops for US Dojos to reach out to underserved attendees.
+Access to（権利） partnerships negotiated by the Foundation（財団によって締結された）
+such as（例えば） Google & Raspberry Pi partnership negotiated（締結された） for all UK Dojos and Coderstarter pilot partnership offering（提供すること） laptops（ノートPC） for US Dojos to reach out（手をのばす） to underserved（行き届いてない） attendees（参加者）.
 Access to sponsorship and partnership opportunities such negotiated by the Foundation such as Coolest Projects Travel for European Dojos
 Option to attend regular Foundation organised events such as Coolest Projects and DojoCon as well as option of attending once off high profile events that may be organised in your area eg. Recent Dojo at Westminster Abbey, upcoming Dojo at Buckingham Palace.
 Official affiliation with a globally recognised brand and community network opening opportunities in local areas for support and sponsorship.
 Access to upcoming Foundation facilitated remote projects between international Dojos working in collaboration.
-Compliance with RP
+Compliance with RP"
 
 The process in which the Foundation will monitor compliance with RP has yet to be fully designed. However based on initial research the Foundation will not actively enforce meeting the principles, instead a Dojo will be trusted that they are meeting RP if claiming to do so. Dojos may be asked to:
 
