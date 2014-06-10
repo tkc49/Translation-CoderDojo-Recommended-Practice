@@ -5,8 +5,10 @@ The CoderDojo Foundation will be putting the Recommended Practice to the entire 
 
 
 ## コーダー道場の推奨案（RP）
-すべての忍者のための唯一のルールは常にある:何よりもクールであること。嘘や人々の時間を浪費させたりすることはかっこ悪い！  
-このドキュメントの詳細は、CoderDojo財団が全ての個々の道場に合った推奨する一連の指針です。指針は 諮問委員会やコミュニティなどのいくつかの相談を経て修正される可能性がある
+コーダー道場のすべての忍者には１つの“さだめ”があります。
+常にクールであれといことです。うそをついたり、他人の時間を浪費することはクールとは言えません。
+このドキュメントは、コーダー道場財団がそれぞれの道場に推奨する一連の運営指針の詳細です。
+この運営指針は、コミュニティもしくは諮問委員会などの協議プロセスの中のどの段階でも修正される可能性があります。
 
 >"CoderDojo Recommended Practice (RP)
 For all Ninjas there is as always only one rule; Above all be Cool, bullying, lying, wasting peoples time and so on is uncool!  
