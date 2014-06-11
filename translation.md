@@ -137,16 +137,16 @@ A Dojo who chooses to meet the RP is making a public declaration that they are c
 次のもののようなドジョウのための多くの追加の利点があります:
 * 推奨と提携して最高の品質基準を満たしている道場として認識します。
 * 道場、財団の運営および積極的にこれを通じてグローバル CoderDojo 運動の将来の方向性を形成する能力の声があります。
-* 財団によって締結されたパートナーシップの権利；Google & Raspberry Pi は全てのUK道場と締結したり、Coderstarter pilotは十分なサービスを受けていない参加者に援助する為にノートPCを提供することを締結された
-* Access to（権利） sponsorship and partnership opportunities（良い機会） such negotiated（締結された） by the Foundation such as（例えば） Coolest Projects Travel for European Dojos
+* 財団によって締結されたパートナーシップの権利；Google & RaspberryPiは全てのUK道場と締結したり、Coderstarterpilotは十分なサービスを受けていない参加者に援助する為にノートPCを提供することを締結された
+* 例えばヨーロッパへの道場への旅は財団によって締結されたスポンサーとパートナーシップとの良い機会へと導いた			
 * Option to attend regular Foundation organised events such as Coolest Projects and DojoCon as well as option of attending once off high profile events that may be organised in your area eg. Recent Dojo at Westminster Abbey, upcoming Dojo at Buckingham Palace.
 
 
 >"There are a number of additional benefits for Dojos such as:
 Recognition as a Dojo that meets the highest quality standards through aligning with Recommended Practice.
 Dojos will have a voice in the operations of the Foundation and the ability to actively shape the direction and future of the global CoderDojo movement through this.
-Access to（権利） partnerships negotiated by the Foundation（財団によって締結された）
-such as（例えば） Google & Raspberry Pi partnership negotiated（締結された） for all UK Dojos and Coderstarter pilot partnership offering（提供すること） laptops（ノートPC） for US Dojos to reach out（手をのばす） to underserved（行き届いてない） attendees（参加者）.
+Access to partnerships negotiated by the Foundation
+such as Google & Raspberry Pi partnership negotiated for all UK Dojos and Coderstarter pilot partnership offering laptops for US Dojos to reach out to underserved attendees.
 Access to sponsorship and partnership opportunities such negotiated by the Foundation such as Coolest Projects Travel for European Dojos
 Option to attend regular Foundation organised events such as Coolest Projects and DojoCon as well as option of attending once off high profile events that may be organised in your area eg. Recent Dojo at Westminster Abbey, upcoming Dojo at Buckingham Palace.
 Official affiliation with a globally recognised brand and community network opening opportunities in local areas for support and sponsorship.
