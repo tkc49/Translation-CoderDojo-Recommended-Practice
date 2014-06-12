@@ -141,8 +141,11 @@ A Dojo who chooses to meet the RP is making a public declaration that they are c
 * 道場、財団の運営および積極的にこれを通じてグローバル CoderDojo 運動の将来の方向性を形成する能力の声があります。
 * 財団によって締結されたパートナーシップの権利；Google & RaspberryPiは全てのUK道場と締結したり、Coderstarterpilotは十分なサービスを受けていない参加者に援助する為にノートPCを提供することを締結された
 * 例えばヨーロッパへの道場への旅は財団によって締結されたスポンサーとパートナーシップとの良い機会へと導いた			
-* Option to attend regular Foundation organised events such as Coolest Projects and DojoCon as well as option of attending once off high profile events that may be organised in your area eg. Recent Dojo at Westminster Abbey, upcoming Dojo at Buckingham Palace.
+* 正会員になれば、財団組織のイベントをあなたのエリアの組織的なところで開催されるかもしれない。たとえば、Coolest ProjectsやDojoCon。
+例えば）最近ではウェストミンスター寺院で道場を開催したり、近々バッキンガム宮殿でも道場を開催します。
 
+Coolest Project:http://coolestprojects.org/
+DojoCon：？？？？
 
 >"There are a number of additional benefits for Dojos such as:
 Recognition as a Dojo that meets the highest quality standards through aligning with Recommended Practice.
@@ -155,13 +158,22 @@ Official affiliation with a globally recognised brand and community network open
 Access to upcoming Foundation facilitated remote projects between international Dojos working in collaboration.
 Compliance with RP"
 
-The process in which the Foundation will monitor compliance with RP has yet to be fully designed. However based on initial research the Foundation will not actively enforce meeting the principles, instead a Dojo will be trusted that they are meeting RP if claiming to do so. Dojos may be asked to:
 
+財団RPの遵守を監視するする処理は、完全に設計されていない。しかし　初期調査をベースに財団は原則の参加に積極的に強制はしない代わりに道場がそうすることを主張した場合、彼らは、RPを満たしていることを信頼されます。道場はを求められる場合があります:
+* 原則の理解を確認するために原理ドキュメントの 1 つのページのコピーに署名します
+* 道場は財団にメールで審査証明,保険証明書等の証拠のコピーを提供する必要があるかもしれません。
+* 正式にRPへの参加として認められる前に、 道場はチームのメンバーとの電話またはコミュニティを呼び出しに参加する必要があります
+
+毎年財団は、世界の道場の調査を完了します。この目的は、RPに参加した当初のDojosを保証することになり、そうして財団が活発なDojoカウントを維持することを確実とするために不活発なDojosを一掃することを続けます。
+
+>"The process in which the Foundation will monitor compliance with RP has yet to be fully designed. However based on initial research the Foundation will not actively enforce meeting the principles, instead a Dojo will be trusted that they are meeting RP if claiming to do so. Dojos may be asked to:"
 Sign a one page copy of the principles document to confirm their understanding of the principles
 Dojos may need to provide certain proof via email to the Foundation, i.e proof of vetting, insurance cert etc
 Before officially being recognised as meeting RP Dojos will be required to have a call with member of team or join Community Call
-Annually the Foundation will complete a survey of global Dojos. The purpose of this will be to ensure Dojos originally met RP are continuing to do so and to clean out inactive Dojos to ensure that Foundation maintains an active Dojo count.
+Annually the Foundation will complete a survey of global Dojos. The purpose of this will be to ensure Dojos originally met RP are continuing to do so and to clean out inactive Dojos to ensure that Foundation maintains an active Dojo count."
 
-Project Process
+プロジェクトの経過
+以下のプロセスは、2014年3月20日に取締役会で承認された.ステージ5は6月11日 - 2014年7月の13日に実行されます.
 
-The below process was approved at the board meeting on the 20th March 2014. Stage 5 will run from 11th of June – 13th of July 2014.
+>"Project Process
+The below process was approved at the board meeting on the 20th March 2014. Stage 5 will run from 11th of June – 13th of July 2014."
